@@ -1,6 +1,4 @@
-Certainly! Here's the README file for your GitHub repository "cryptid2":
-
----
+![★Always for truth, against falsehood ★](https://github.com/darkstarbdx/cryptid2/assets/122794584/e550a734-5a71-4d94-a9db-25efd26400d6)
 
 # Cryptid2
 

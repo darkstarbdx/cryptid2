@@ -1,6 +1,7 @@
 ![★Always for truth, against falsehood ★](https://github.com/darkstarbdx/cryptid2/assets/122794584/e550a734-5a71-4d94-a9db-25efd26400d6)
 
-# Cryptid2 ★Use at your own risk, I am not responsible for any damage ★
+# Cryptid2
+★Use at your own risk, I am not responsible for any damage ★
 
 ## Overview
 

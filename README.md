@@ -36,7 +36,7 @@ Cryptid2 is a Python-based tool designed for educational purposes to simulate HT
 
     Install required Python libraries:
     ```bash
-    pip3 install requirements.txt
+    pip3 install -r requirements.txt
     ```
 
 3. **Run the script:**
@@ -63,7 +63,7 @@ Cryptid2 is a Python-based tool designed for educational purposes to simulate HT
 
 4. **Install required packages:**
     ```bash
-    pip3 install requirements.txt
+    pip3 install -r requirements.txt
     ```
 
 5. **Run the script:**
